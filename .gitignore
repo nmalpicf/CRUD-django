@@ -1,0 +1,23 @@
+# Sistema
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Entornos virtuales
+venv/
+.env/
+
+# Configuración IDE
+.vscode/
+.idea/
+
+# Archivos de caché y logs
+*.log
+*.bak
+*.swp
+*.tmp
+*.pid
+
+# Archivos estáticos y media
+staticfiles/
+media/
